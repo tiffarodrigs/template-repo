@@ -15,11 +15,8 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _After cloning change the project name in webpack and package_
+
 
 ## Known Bugs
 
